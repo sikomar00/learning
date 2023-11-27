@@ -1,0 +1,13 @@
+langchain
+    pip install --upgrade pip
+    pip install jsondiff --user
+    pip install normalizer --user
+    pip install langsmith --user
+    pip install langchain-server --user
+
+openai
+    pip install tqdm --user
+    pip install distro --user
+
+
+
