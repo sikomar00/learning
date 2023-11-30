@@ -9,5 +9,7 @@ openai
     pip install tqdm --user
     pip install distro --user
 
+openai key는 .env로 진행
+
 
 
